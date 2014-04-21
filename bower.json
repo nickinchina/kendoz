@@ -1,5 +1,5 @@
 {
-    "name": "kendoz",
+    "name": "kendo-ui",
     "version": "1.0.0",
     "main": ["js/kendo.editor.js", "styles/kendo.common.core.css","styles/kendo.bootstrap.css"]
 }
